@@ -8,12 +8,5 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
-     "extra": {
-      "laravel": {
-          "providers": [
-              "NirajK\\Calculator\\CalculatorServiceProvider"
-          ],
-      }
-  }
+    "require": {}
 }
